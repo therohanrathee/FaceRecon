@@ -14,10 +14,15 @@ This project demonstrates real-time **facial recognition** using the dlib librar
 
 ## Installation
 
-1. Clone the repository:
+1. Install Required libraries by running this code in your Terminal.
+ ```pip install opencv-python dlib numpy```
+
+
+2. Clone the repository:
    ```bash
    $ git clone https://github.com/therohanrathee/facial-recognition.git
    $ cd facial-recognition
+
 
 
 ## Usage
