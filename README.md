@@ -20,8 +20,8 @@ This project demonstrates real-time **facial recognition** using the dlib librar
 
 2. Clone the repository:
    ```bash
-   $ git clone https://github.com/therohanrathee/facial-recognition.git
-   $ cd facial-recognition
+   $ git clone https://github.com/therohanrathee/FaceRecon.git
+   $ cd FaceRecon
 
 
 
